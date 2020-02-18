@@ -1,0 +1,8 @@
+2019-11-14 20:00:10,677 TRACE L.App [main] Enter
+2019-11-14 20:00:10,692 TRACE L.App [main] Enter Sam
+2019-11-14 20:00:10,694 TRACE L.App [main] Exit with(Hello, Sam!)
+2019-11-14 20:00:10,694 INFO L.App [main] Hello, Sam!
+2019-11-14 20:00:10,695 TRACE L.App [main] Enter Alice
+2019-11-14 20:00:10,696 TRACE L.App [main] Exit with(Hello, Alice!)
+2019-11-14 20:00:10,696 INFO L.App [main] Hello, Alice!
+2019-11-14 20:00:10,696 TRACE L.App [main] Exit
