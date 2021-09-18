@@ -1,8 +1,0 @@
-2019-11-14 20:02:16,501 TRACE L.App [main] Enter
-2019-11-14 20:02:16,515 TRACE L.App [main] Enter getGreeting(Sam)
-2019-11-14 20:02:16,515 TRACE L.App [main] Exit with(Hello, Sam!)
-2019-11-14 20:02:16,515 INFO L.App [main] Hello, Sam!
-2019-11-14 20:02:16,515 TRACE L.App [main] Enter getGreeting(Alice)
-2019-11-14 20:02:16,518 TRACE L.App [main] Exit with(Hello, Alice!)
-2019-11-14 20:02:16,518 INFO L.App [main] Hello, Alice!
-2019-11-14 20:02:16,518 TRACE L.App [main] Exit
